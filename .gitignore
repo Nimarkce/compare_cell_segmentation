@@ -1,3 +1,4 @@
 *.npz
 *.png
 *.npy
+data/
